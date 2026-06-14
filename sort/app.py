@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-st.tittle("Visualisasi Sorting")
+st.title("Visualisasi Sorting")
 
 #1. Kontrol UI Input Data & Algoritma
 col1, col2 = st.columns(2)
